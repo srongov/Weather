@@ -21,5 +21,4 @@ It also store search history.
 It also have a button for clear history.
 
 
-Screen Shot 2022-01-20 at 11.02.55 PM
-
+<img width="1512" alt="Screen Shot 2022-01-20 at 11 02 55 PM" src="https://user-images.githubusercontent.com/83107437/150464444-6620634a-4690-4f89-aad8-3b61976d387c.png">
